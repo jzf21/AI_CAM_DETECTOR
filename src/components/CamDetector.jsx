@@ -204,14 +204,7 @@ const CameraComponent = () => {
       Long: 76.94019489,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-24",
-      District: "Thiruvananthapuram",
-      Location: "MG Road",
-      Lat: 8.490216194,
-      Long: 76.9473004,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-25",
       District: "Thiruvananthapuram",
@@ -252,14 +245,7 @@ const CameraComponent = () => {
       Long: 76.8987359,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-31",
-      District: "Thiruvananthapuram",
-      Location: "Holy Angels Convent road",
-      Lat: 8.498014727,
-      Long: 76.94286201,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-32",
       District: "Thiruvananthapuram",
@@ -300,14 +286,7 @@ const CameraComponent = () => {
       Long: 76.9127634,
       Type: "SVDS",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-37",
-      District: "Thiruvananthapuram",
-      Location: "Palayam",
-      Lat: 8.502110568,
-      Long: 76.95008822,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-38",
       District: "Thiruvananthapuram",
@@ -364,14 +343,7 @@ const CameraComponent = () => {
       Long: 76.8908583,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-45",
-      District: "Thiruvananthapuram",
-      Location: "KIMS Hopspital Jn, Venpalavattam",
-      Lat: 8.513192199,
-      Long: 76.91054508,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-46",
       District: "Thiruvananthapuram",
@@ -420,14 +392,7 @@ const CameraComponent = () => {
       Long: 76.9862784,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-52",
-      District: "Thiruvananthapuram",
-      Location: "Pattom(PVDS)",
-      Lat: 8.526084221,
-      Long: 76.93893425,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-53",
       District: "Thiruvananthapuram",
@@ -444,14 +409,7 @@ const CameraComponent = () => {
       Long: 76.9326316,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-01-55",
-      District: "Thiruvananthapuram",
-      Location: "Ambalamukk",
-      Lat: 8.529742424,
-      Long: 76.96094949,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-01-56",
       District: "Thiruvananthapuram",
@@ -2629,14 +2587,7 @@ const CameraComponent = () => {
       Long: 76.58680648,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-07-327",
-      District: "Ernakulam",
-      Location: "Marine drive",
-      Lat: 9.980284402,
-      Long: 76.27557904,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-07-328",
       District: "Ernakulam",
@@ -2957,14 +2908,7 @@ const CameraComponent = () => {
       Long: 76.40595518,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-07-369",
-      District: "Ernakulam",
-      Location: "Angamaly nh jn",
-      Lat: 10.19297151,
-      Long: 76.38687462,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-07-370",
       District: "Ernakulam",
@@ -3069,14 +3013,7 @@ const CameraComponent = () => {
       Long: 76.1608167,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-08-382",
-      District: "Thrissur",
-      Location: "Thriprayar Temple Gate",
-      Lat: 10.414214,
-      Long: 76.113296,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-08-385",
       District: "Thrissur",
@@ -3093,14 +3030,7 @@ const CameraComponent = () => {
       Long: 76.22512,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-08-387",
-      District: "Thrissur",
-      Location: "Irinjalakuda",
-      Lat: 10.34706886,
-      Long: 76.21238217,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-08-388",
       District: "Thrissur",
@@ -3189,14 +3119,7 @@ const CameraComponent = () => {
       Long: 76.24358699,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-08-400",
-      District: "Thrissur",
-      Location: "Civil line road 2",
-      Lat: 10.52184762,
-      Long: 76.19932014,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-08-401",
       District: "Thrissur",
@@ -3221,22 +3144,7 @@ const CameraComponent = () => {
       Long: 76.2535695,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-08-404",
-      District: "Thrissur",
-      Location: "Poonkunnam",
-      Lat: 10.53309666,
-      Long: 76.20195039,
-      Type: "PVDS",
-    },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-08-405",
-      District: "Thrissur",
-      Location: "Patturaikkal",
-      Lat: 10.53662332,
-      Long: 76.21187456,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-08-406",
       District: "Thrissur",
@@ -3581,14 +3489,7 @@ const CameraComponent = () => {
       Long: 76.63973115,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-09-451",
-      District: "Palakkad",
-      Location: "Ottappalam",
-      Lat: 10.77293148,
-      Long: 76.37481943,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-09-452",
       District: "Palakkad",
@@ -3605,14 +3506,7 @@ const CameraComponent = () => {
       Long: 76.62854936,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-09-454",
-      District: "Palakkad",
-      Location: "Pathirippala(PVDS)",
-      Lat: 10.77951052,
-      Long: 76.47438806,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-09-455",
       District: "Palakkad",
@@ -4221,14 +4115,7 @@ const CameraComponent = () => {
       Long: 75.879253,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-11-530",
-      District: "Kozhikode",
-      Location: "Station link road",
-      Lat: 11.24670657,
-      Long: 75.7824073,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-11-531",
       District: "Kozhikode",
@@ -4237,22 +4124,7 @@ const CameraComponent = () => {
       Long: 75.77105485,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-11-532",
-      District: "Kozhikode",
-      Location: "Mananchira(PVDS)",
-      Lat: 11.25317967,
-      Long: 75.77944513,
-      Type: "PVDS",
-    },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-11-533",
-      District: "Kozhikode",
-      Location: "Pavamani road",
-      Lat: 11.25514705,
-      Long: 75.78490242,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-11-534",
       District: "Kozhikode",
@@ -4749,14 +4621,7 @@ const CameraComponent = () => {
       Long: 76.2475233,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-12-596",
-      District: "Wayanad",
-      Location: "Meenangadi",
-      Lat: 11.66019721,
-      Long: 76.16357099,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-12-597",
       District: "Wayanad",
@@ -4853,14 +4718,7 @@ const CameraComponent = () => {
       Long: 76.12094164,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-12-609",
-      District: "Wayanad",
-      Location: "Panamaram",
-      Lat: 11.73928257,
-      Long: 76.07274737,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-12-610",
       District: "Wayanad",
@@ -4909,22 +4767,7 @@ const CameraComponent = () => {
       Long: 75.52850235,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-13-615",
-      District: "Kannur",
-      Location: "New bus stand Thalassery - 1",
-      Lat: 11.74923402,
-      Long: 75.494732,
-      Type: "PVDS",
-    },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-13-616",
-      District: "Kannur",
-      Location: "New bus stand Thalassery - 2",
-      Lat: 11.74999129,
-      Long: 75.49454123,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-13-617",
       District: "Kannur",
@@ -5341,14 +5184,7 @@ const CameraComponent = () => {
       Long: 75.16905248,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-14-668",
-      District: "Kasaragod",
-      Location: "Cheruvathur",
-      Lat: 12.21642417,
-      Long: 75.16162947,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-14-669",
       District: "Kasaragod",
@@ -5389,14 +5225,7 @@ const CameraComponent = () => {
       Long: 75.09394225,
       Type: "AI Camera",
     },
-    {
-      Unique_id: "KL-KEL-KMVD-50-PVDS-14-674",
-      District: "Kasaragod",
-      Location: "Kanjangad 1",
-      Lat: 12.32124155,
-      Long: 75.08675158,
-      Type: "PVDS",
-    },
+
     {
       Unique_id: "KL-KEL-KMVD-50-AICS-14-676",
       District: "Kasaragod",
@@ -5751,8 +5580,8 @@ const CameraComponent = () => {
           <p>District: {nearestCamera.District}</p>
           <p>Location: {nearestCamera.Location}</p>
           <p>Type: {nearestCamera.Type}</p>
-          <p>Latitude: {nearestCamera.Lat}</p>
-          <p>Longitude: {nearestCamera.Long}</p>
+          {/* <p>Latitude: {nearestCamera.Lat}</p>
+          <p>Longitude: {nearestCamera.Long}</p> */}
           <p>Distance:{currentDistance * 1000}</p>
         </div>
       )}
