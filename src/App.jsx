@@ -5,7 +5,6 @@ function App() {
   return (
     <>
       <CameraComponent />
-      <p>hello</p>
     </>
   );
 }

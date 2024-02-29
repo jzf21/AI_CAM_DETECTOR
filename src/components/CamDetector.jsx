@@ -5753,7 +5753,7 @@ const CameraComponent = () => {
           <p>Type: {nearestCamera.Type}</p>
           <p>Latitude: {nearestCamera.Lat}</p>
           <p>Longitude: {nearestCamera.Long}</p>
-          <p>Distance:{currentDistance}</p>
+          <p>Distance:{currentDistance * 1000}</p>
         </div>
       )}
     </div>
